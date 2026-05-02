@@ -1,9 +1,8 @@
 # TRAVELLO
 
-<p align="center">
-  <img src="![Uploading ChatGPT Image May 2, 2026, 11_12_47 PM.png…]()
-" width="100%">
->
+
+<img width="1983" height="793" alt="tbanner" src="https://github.com/user-attachments/assets/3f72990b-aecf-4a8a-b068-7784d0c65a51" />
+
 
 
 <p align="center">
