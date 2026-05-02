@@ -1,0 +1,28 @@
+.DS_Store
+
+# Xcode user data
+xcuserdata/
+*.xcuserdatad/
+*.xcuserstate
+
+# Build products
+build/
+DerivedData/
+
+# Swift Package Manager
+.build/
+Packages/
+Package.resolved
+
+# CocoaPods / Carthage
+Pods/
+Carthage/Build/
+
+# FastAPI / Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local environment
+.env
