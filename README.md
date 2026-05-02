@@ -4,10 +4,6 @@
 
 
 <p align="center">
-  <strong>A stylized full-stack travel experience built with SwiftUI and FastAPI.</strong>
-</p>
-
-<p align="center">
   Discovery. Intelligent routing. Trip progression. Profile-driven travel storytelling.
 </p>
 
