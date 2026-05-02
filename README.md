@@ -1,5 +1,8 @@
 # TRAVELLO
 
+![Uploading ChatGPT Image May 2, 2026, 11_12_47 PM.png…]()
+
+
 <p align="center">
   <strong>A stylized full-stack travel experience built with SwiftUI and FastAPI.</strong>
 </p>
