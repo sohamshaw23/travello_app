@@ -3,7 +3,7 @@
 <p align="center">
   <img src="![Uploading ChatGPT Image May 2, 2026, 11_12_47 PM.png…]()
 " width="100%">
-</p>
+>
 
 
 <p align="center">
