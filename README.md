@@ -9,7 +9,11 @@
 
 
 <p align="center">
+
+  
   Discovery. Intelligent routing. Trip progression. Profile-driven travel storytelling.
+
+  
 </p>
 
 ---
